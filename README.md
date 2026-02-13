@@ -32,3 +32,12 @@ URL: `<REPO_URL>`
   year      = {2026},
   note      = {To appear}
 }
+
+@misc{yet2026ai_on_ran_repo,
+  author       = {Yet, Hariz and Nguyen, Thanh Tam},
+  title        = {SLA-Aware Distributed LLM Inference Across Device--RAN-Edge--Cloud: Reproducibility Scripts and Derived Logs},
+  howpublished = {GitHub repository},
+  year         = {2026},
+  url          = {<REPO_URL>},
+  note         = {Accessed: YYYY-MM-DD. Version: commit <COMMIT_HASH> (or tag <RELEASE_TAG>)}
+}
